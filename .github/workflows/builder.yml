@@ -6,8 +6,8 @@ on:
     
 env:
   ROM_LINK: your rom's direct link
-  ROM_LINK: https://downloads.sourceforge.net/project/kevios12a40roms/RELEASE/evolution_a40-ota-rq3a.210905.001-09191220-unofficial-unsigned.zip?ts=gAAAAABhSKfwG2QmwbDIWKLOsgwwVZpzfw45QWhlvk2t-51g5yZWGXMnwAyLCRp3mGdunmuAJJO_fBy4HdKWcfKfI9YvuCEywg%3D%3D&use_mirror=autoselect&r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fkevios12a40roms%2Ffiles%2FRELEASE%2Fevolution_a40-ota-rq3a.210905.001-09191220-unofficial-unsigned.zip%2Fdownload
-  ROM_TYPE: Generic
+  ROM_LINK: https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.8.28/xiaomi.eu_multi_MI10Pro_20.8.28_v12-11.zip
+  ROM_TYPE: Pixel
   BUILD_AB: true
   BUILD_AONLY: false
   ROM_AONLY: A.7z
